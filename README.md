@@ -1,2 +1,4 @@
-# create_github.io
-Karen's directions on how to create a github.io site
+#Week 1
+##Document describing how to create a username.github.io site
+
+My version of how to make this magic happen!
